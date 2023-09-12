@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/GDW-3-Tutorial-1/Tutorial1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
